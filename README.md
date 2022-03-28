@@ -1,6 +1,6 @@
 # Hi I'm Kritsakorn, Welcome to my Github profile👋
 
-👋 I’m currently learning Front-End, Back-End ang technology blockchain.
+👋 I’m currently learning Front-End, Back-End and technology blockchain.
 
 😃 สวัสดีครับ ผม กฤษกร  พยัคฆ์มะเริง ปัจจุบัน อายุ 18 ปี เป็นคนที่ชื่นชอบและหลงใหลการเขียนโปรแกรม ปัจจุบันกำลังศึกษา ภาษา Javascript และ framework JS
 
