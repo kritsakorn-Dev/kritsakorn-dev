@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I’m currently learning Javascript.
 <!--
 **kritsakorn-Dev/kritsakorn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
