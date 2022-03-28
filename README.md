@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Kritsakorn, Welcome to my Github profile👋
 
 👋 I’m currently learning Javascript.
 
