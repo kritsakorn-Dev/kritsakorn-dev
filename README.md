@@ -1,8 +1,17 @@
 # Hi I'm Kritsakorn, Welcome to my Github profile👋
 
+
+😃 My name's kritsakorn
+
+😃 My nickname New
+
+😃 I'm 18 years old
+
 👋 I’m currently learning Front-End, Back-End and technology blockchain.
 
-😃 
+🔭 I’m currently working on Niyom art advertising 2016 Co., Ltd.
+
+
 
 ![1641739942805](https://user-images.githubusercontent.com/78206137/160372588-cd22d603-a4c9-4879-a9fd-212d3de02806.jpg)
 
