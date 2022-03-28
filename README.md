@@ -1,8 +1,10 @@
 ### Hi I'm Kritsakorn, Welcome to my Github profile👋
 
-👋 I’m currently learning Javascript.
+👋 I’m currently learning Front-End, Back-End ang technology blockchain.
 
 😃 สวัสดีครับ ผม กฤษกร  พยัคฆ์มะเริง ปัจจุบัน อายุ 18 ปี ตอนนี้กำลังศึกษาอยู่มหาวิทยาลัยฮอกวอตส์ เป็นคนที่ชื่นชอบและหลงใหลการเขียนโปรแกรม ปัจจุบันกำลังศึกษา ภาษา Javascript และ framework JS
+
+https://drive.google.com/file/d/1Yhr8S5pwnTHV1ENUa1z_feXyrBhFXoPc/view?usp=sharing
 <!--
 **kritsakorn-Dev/kritsakorn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
