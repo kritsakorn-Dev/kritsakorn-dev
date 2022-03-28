@@ -9,7 +9,7 @@
 
 👋 I’m currently learning Front-End, Back-End and technology blockchain.
 
-🔭 I’m currently working on Niyom art advertising 2016 Co., Ltd.
+🔭 I’m currently working on Niyom art advertising 2016 co., Ltd.
 
 
 
