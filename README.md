@@ -5,15 +5,14 @@
 
 😃 My nickname New
 
-😃 I'm 18 years old
+😃 I'm 19 years old
 
 👋 I’m currently learning Front-End, Back-End and technology blockchain.
 
-🔭 I’m currently working on Niyom art advertising 2016 co., Ltd.
 
 
 
-![1641739942805](https://user-images.githubusercontent.com/78206137/160372588-cd22d603-a4c9-4879-a9fd-212d3de02806.jpg)
+
 
 <!--
 **kritsakorn-Dev/kritsakorn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
