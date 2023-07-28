@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 👉 [Facebook](https://www.facebook.com/nuclearzaza/)
 
-👉 [Instagram](https://www.instagram.com/kritsakorn_77/)
+👉 [Instagram](https://www.instagram.com/iamnotperfect4u/)
