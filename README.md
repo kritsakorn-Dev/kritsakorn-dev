@@ -1,13 +1,13 @@
 # Hi I'm Kritsakorn, Welcome to my Github profile👋
 
 
-😃 My name's kritsakorn
+😃 My name's kritsakorn.
 
-😃 My nickname New
+😃 I'm 19 years old.
 
-😃 I'm 19 years old
+😃 I study at Rangsit University.
 
-👋 I’m currently learning Front-End, Back-End and technology blockchain.
+👋 I’m currently learning Front-End, Back-End.
 
 
 
