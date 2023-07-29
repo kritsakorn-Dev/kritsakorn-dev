@@ -5,7 +5,7 @@
 
 😃 I'm 19 years old.
 
-😃 I study at Faculty of Computer science, Rangsit University .
+😃 I'm a Junior student at Faculty of Computer science, Rangsit University. .
 
 👋 I’m currently learning Front-End, Back-End.
 
