@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kritsakorn
+Hi ! 👋 My name is Kritsakorn
 ==================================================================================================================================
 
 My name's Kritsakorn, I'm 19 years old. I'm a Junior student at Faculty of Computer science, Rangsit University.
