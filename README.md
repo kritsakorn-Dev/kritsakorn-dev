@@ -1,11 +1,10 @@
-Hi ! 👋 My name is Kritsakorn
-==================================================================================================================================
+Hi 👋 My name is Kritsakorn
+===========================
 
-My name's Kritsakorn, I'm 19 years old. 
-I'm a Junior student at Faculty of Computer science, Rangsit University.
+My name's Kritsakorn, I'm 19 years old. I'm a Junior student at Faculty of Computer science, Rangsit University.
 
-* 🧠  I'm learning I’m currently learning Front-End, Back-End.
 * ✉️  You can contact me at [kitsakorn.cr777@gmail.com](mailto:kitsakorn.cr777@gmail.com)
+* 🧠  I'm learning I’m currently learning Front-End, Back-End.
 
 ### Skills
 
@@ -23,9 +22,10 @@ I'm a Junior student at Faculty of Computer science, Rangsit University.
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+</p>
+
 
 ### Socials
 
