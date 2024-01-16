@@ -1,7 +1,7 @@
 Hi 👋 My name is Kritsakorn
 ===========================
 
-My name's Kritsakorn, I'm 19 years old. I'm a Junior student at Faculty of Computer science, Rangsit University.
+My name's Kritsakorn, I'm 20 years old. I'm a Junior student at Faculty of Computer science, Rangsit University.
 
 * ✉️  You can contact me at [kitsakorn.cr777@gmail.com](mailto:kitsakorn.cr777@gmail.com)
 * 🧠  I'm learning I’m currently learning Front-End, Back-End.
