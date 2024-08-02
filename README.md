@@ -3,13 +3,13 @@
 
 </h1>
 
-<h3 align="center">Junior Programmer</h3>
+<h3 align="center">- Junior Programmer -</h3>
 
 <div align="center">
  
- 🔭 I’m currently studying on **Rangsit University**
+ 🔭 I’m currently studying on **Rangsit University.**
  
- 🌱 I’m currently learning **Javascript**
+ 🌱 I’m currently learning **Javascript.**
 
 <br>
 <div align="center"> 
