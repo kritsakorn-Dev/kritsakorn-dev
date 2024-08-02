@@ -31,8 +31,7 @@ My name's Kritsakorn, I'm 20 years old. I'm a Junior student at Faculty of Compu
 
 <p align="left"> <a href="https://www.facebook.com/nuclearzaza/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/kritsakorn-Dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/iamnotperfect4u" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-### Badges
-[![kritsakorn-Dev's GitHub | Stats](https://stats.quira.sh/kritsakorn-Dev/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kritsakorn-Dev)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/kritsakorn-Dev"><img src="https://github-readme-stats.vercel.app/api?username=kritsakorn-Dev&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="kritsakorn-Dev's GitHub stats" /></a>
