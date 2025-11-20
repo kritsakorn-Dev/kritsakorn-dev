@@ -9,8 +9,6 @@
  
  🔭 I’m currently studying on **Rangsit University.**
  
- 🌱 I’m currently learning **Javascript.**
-
 <br>
 <div align="center"> 
   <a href="mailto:kritsakorn.cr777@gmail.com">
