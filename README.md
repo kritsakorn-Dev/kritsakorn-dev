@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying on **Rangsit University.**
+ 🔭 I’m currently studying at **Rangsit University.**
  
 <br>
 <div align="center"> 
