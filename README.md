@@ -11,7 +11,7 @@
  
 <br>
 <div align="center"> 
-  <a href="mailto:kritsakorn.cr777@gmail.com">
+  <a href="mailto:kritsakorn.payakmareong@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/kritsakorn-payakmareong-10234321b/" target="_blank">
