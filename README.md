@@ -10,7 +10,10 @@ https://github.com/kritsakorn-dev -> change your username
 
 <div align="center">
  
- 🔭 I’m currently studying at **Rangsit University.**
+🎓 Studying at Rangsit University  
+💼 Intern at Bay Computing Public Co., Ltd.
+
+
  
 <br>
 <div align="center"> 
