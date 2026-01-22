@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kritsakorn-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
 
-<h3 align="center">- Junior Programmer -</h3>
+<h3 align="center">- Junior Developer -</h3>
 
 <div align="center">
  
