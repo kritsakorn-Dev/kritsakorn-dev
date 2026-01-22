@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Tiny5&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kritsakorn+Payakmareong;&color=EDF787FF" />
 
 </h1>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kritsakorn-dev)
+
 
 <h3 align="center">- Junior Programmer -</h3>
 
