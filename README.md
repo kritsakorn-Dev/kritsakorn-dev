@@ -3,9 +3,8 @@
 
 </h1>
 
-<center>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=kritsakorn-dev&label=Profile%20Views&color=0e75b6&style=flat)
-</center>
 
 
 <h3 align="center">- Junior Programmer -</h3>
