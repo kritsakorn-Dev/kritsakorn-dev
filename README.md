@@ -39,7 +39,7 @@
   <br><br>
 
   <!-- Backend / Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,supabase,firebase,mysql,postgresql,mongodb,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,supabase,mysql,postgresql,mongodb,docker&theme=dark" />
   <br><br>
 
   <!-- Design / Tools -->
