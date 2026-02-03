@@ -35,15 +35,16 @@
 <div align="center">
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,bootstrap,tailwind" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,bootstrap,tailwind&theme=dark" /><br><br>
 
   <!-- Backend / Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,php,java,supabase,docker" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java,supabase,mysql,docker&theme=dark" /><br><br>
 
   <!-- Design / Tools -->
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
 
 </div>
+
 
 
 
