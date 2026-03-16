@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kritsakorn-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
 
-<h3 align="center"> Full-Stack Developer </h3>
+<h2 align="center"> Full-Stack Developer </h2>
 
 <div align="center">
  
