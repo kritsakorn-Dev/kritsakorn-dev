@@ -30,8 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    
-<!-- Frontend -->
+    <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,astro,bootstrap,tailwind&theme=dark" />
 <br><br>
 <!-- Backend / Database -->
@@ -39,6 +38,11 @@
 <br><br>
 <!-- Design / Tools -->
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode&theme=dark" />
+<br><br>
+<!-- AI Editors -->
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=codeium&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
 
