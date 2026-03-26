@@ -30,17 +30,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,bootstrap,tailwind&theme=dark" />
-  <br><br>
-
-  <!-- Backend / Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,supabase,mysql,postgresql,mongodb,docker&theme=dark" />
-  <br><br>
-
-  <!-- Design / Tools -->
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode&theme=dark" />
+    
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,astro,bootstrap,tailwind&theme=dark" />
+<br><br>
+<!-- Backend / Database -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,supabase,mysql,postgresql,mongodb,docker&theme=dark" />
+<br><br>
+<!-- Design / Tools -->
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode&theme=dark" />
 
 </div>
 
