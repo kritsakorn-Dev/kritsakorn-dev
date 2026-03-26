@@ -39,7 +39,6 @@
 <br><br>
 <!-- Design / Tools -->
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode&theme=dark" />
-<br><br>
 
 
 </div>
