@@ -40,9 +40,6 @@
 <!-- Design / Tools -->
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode&theme=dark" />
 <br><br>
-<!-- AI Editors -->
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cursor.png" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/windsurf.png" width="48" height="48" />
 
 
 </div>
