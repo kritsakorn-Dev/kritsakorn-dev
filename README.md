@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,astro,bootstrap,tailwind&theme=dark" />
 <br><br>
 <!-- Backend / Database -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,supabase,mysql,postgresql,mongodb,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,firebase,supabase,mysql,postgresql,mongodb,docker&theme=dark" />
 <br><br>
 <!-- Design / Tools -->
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode&theme=dark" />
