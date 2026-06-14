@@ -11,7 +11,7 @@
 <div align="center">
  
 🎓 Studying at Rangsit University  
-💼 Intern at Bay Computing Public Co., Ltd.
+
 
 
  
