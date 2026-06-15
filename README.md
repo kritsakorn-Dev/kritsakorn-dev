@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🎓 Studying at Rangsit University  
+🎓 B.S. in Computer Science, Rangsit University (Graduated 2026)
 
 
 
